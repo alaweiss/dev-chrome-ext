@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Swedish"
+  },
+  "ext_name": {
+    "message": "Netflix Dubbeltexter"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dubbeltexter - Textöversättare"
+  },
+  "ext_description": {
+    "message": "Dubbeltexter för Netflix: Tvåspråkiga undertexter, anpassningsbar stil och position, enkla nedladdningar av undertexter. Ställ in på under 30 sekunder!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Tidsstämpeln för våra undertexter kan vara felaktig om du ser annonser på Netflix. Ladda bara om webbplatsen efter att ha sett annonserna för att fixa det i ett sådant fall."
+  }
+}

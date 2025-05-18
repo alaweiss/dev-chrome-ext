@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Slovak"
+  },
+  "ext_name": {
+    "message": "Netflix Dvojité Titulky"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dvojité Titulky - Prekladač Titulkov"
+  },
+  "ext_description": {
+    "message": "Dvojité titulky pre Netflix: Dvojjazyčné titulky, prispôsobiteľný štýl a pozícia, jednoduché sťahovanie titulkov. Nastavenie za menej ako 30 sekúnd!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Časová pečiatka našich titulkov môže byť nesprávna, ak sa vám na Netflixe zobrazujú reklamy. Po zhliadnutí reklám jednoducho znova načítajte webovú stránku, aby ste to v takom prípade opravili."
+  }
+}

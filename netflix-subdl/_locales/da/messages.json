@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Danish"
+  },
+  "ext_name": {
+    "message": "Netflix Dobbelt Undertekster"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dobbelt Undertekster - Undertekst Oversætter"
+  },
+  "ext_description": {
+    "message": "Dobbelt undertekster til Netflix: Tosprogede undertekster, tilpasselig stil og position, nem download af undertekster. Klar på under 30 sekunder!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Tidsstemplet for vores undertekster kan være forkert, hvis du ser annoncer på Netflix. Du skal blot genindlæse webstedet efter at have set annoncerne for at rette det i et sådant tilfælde."
+  }
+}

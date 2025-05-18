@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Norwegian"
+  },
+  "ext_name": {
+    "message": "Netflix Doble Undertekster"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Doble Undertekster - Undertekstoversetter"
+  },
+  "ext_description": {
+    "message": "Doble undertekster for Netflix: Tospråklige undertekster, tilpassbar stil og posisjon, enkel nedlasting av undertekster. Sett opp på under 30 sekunder!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Tidsstemplet på undertekstene våre kan være feil hvis du ser annonser på Netflix. Bare last inn nettstedet på nytt etter å ha sett annonsene for å fikse det i et slikt tilfelle."
+  }
+}

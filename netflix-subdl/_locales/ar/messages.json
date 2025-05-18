@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Arabic"
+  },
+  "ext_name": {
+    "message": "Netflix ترجمات مزدوجة"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix ترجمات مزدوجة - مترجم الترجمات"
+  },
+  "ext_description": {
+    "message": "ترجمات مزدوجة لـ Netflix: ترجمة ثنائية، نمط وموقع قابلان للتخصيص، وتنزيل الترجمات بسهولة. الإعداد في أقل من 30 ثانية!"
+  },
+  "switch": {
+    "message": "تبديل:"
+  },
+  "translation_source": {
+    "message": "مصدر الترجمة:"
+  },
+  "translation_source_tooltip": {
+    "message": "'مصدر الترجمة' يتم تحميله من الترجمة الرسمية لصفحة الفيديو التي تزورها. وهو المصدر الأول للترجمات الأولى والثانية. تأكد من أنك في صفحة فيديو تحتوي على ترجمة رسمية واحدة على الأقل."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "تأكد من أنك في صفحة فيديو تحتوي على ترجمة رسمية واحدة على الأقل. يمكنك محاولة إعادة تحميل صفحة الفيديو أو إعادة فتح نافذة منبثقة هذه. إذا كان هناك مشكلة، يرجى الاتصال support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "الترجمة الأولى:"
+  },
+  "second_subtitle": {
+    "message": "الترجمة الثانية:"
+  },
+  "first_subtitle_raw": {
+    "message": "الترجمة الأولى"
+  },
+  "second_subtitle_raw": {
+    "message": "الترجمة الثانية"
+  },
+  "thanks": {
+    "message": "بُنيت بحب ❤️. شكراً لاستخدامك."
+  },
+  "feedback": {
+    "message": "تعليقات"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "تجاوز حصة الاستخدام. يرجى 'تفعيل الترخيص' للاستمرار في الاستخدام."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "يرجى 'تفعيل الترخيص' لتحميل الترجمات"
+  },
+  "download_button_tooltip": {
+    "message": "تحميل الترجمات."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "قد يكون توقيت ترجماتنا غير دقيق إذا كنت تشاهد إعلانات على Netflix. ببساطة أعد تحميل الموقع بعد مشاهدة الإعلانات لإصلاح ذلك في مثل هذه الحالة."
+  }
+}

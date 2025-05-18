@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Amharic"
+  },
+  "ext_name": {
+    "message": "Netflix Dual Subtitles"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dual Subtitles - የትርጉም ተርጓሚ"
+  },
+  "ext_description": {
+    "message": "ድርብ የትርጉም ጽሑፎች ለ Netflix፡ ባለ ሁለት ቋንቋ መግለጫ ፅሁፎች፣ ሊበጁ የሚችሉ ቅጥ እና አቀማመጥ፣ ቀላል የትርጉም ጽሑፎች ማውረድ። ከ30 ሰከንድ ባነሰ ጊዜ ውስጥ ያዘጋጁ!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "በNetflix ላይ ማስታወቂያዎችን እያዩ ከሆነ የእኛ የትርጉም ጽሑፎች የጊዜ ማህተም ትክክል ላይሆን ይችላል። እንደዚህ ባለ ሁኔታ ውስጥ ለማስተካከል ማስታወቂያዎቹን ከተመለከቱ በኋላ በቀላሉ ድረገጹን እንደገና ይጫኑት።"
+  }
+}

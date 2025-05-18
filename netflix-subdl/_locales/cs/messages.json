@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Czech"
+  },
+  "ext_name": {
+    "message": "Netflix Dual Subtitles"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dual Subtitles - Překladatel titulků"
+  },
+  "ext_description": {
+    "message": "Dvojí titulky pro Netflix: dvou-jazyčné titulky, přizpůsobitelný styl a pozice, snadné stahování titulků. Nastavení za méně než 30 sekund!"
+  },
+  "switch": {
+    "message": "Přepnutí:"
+  },
+  "translation_source": {
+    "message": "Zdroj překladu:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Zdroj překladu' je načítán z oficiálních titulků video stránky, kterou navštívíte. A to je zdroj překladu pro první a druhý titulky. Ujistěte se, že jste na stránce videa, které obsahuje alespoň jeden oficiální titulek."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Ujistěte se, že jste na stránce videa, které obsahuje alespoň jeden oficiální titulek. Můžete zkusit znovu načíst stránku videa nebo otevřít toto okno znovu. Pokud problém přetrvává, kontaktujte support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "První titulek:"
+  },
+  "second_subtitle": {
+    "message": "Druhý titulek:"
+  },
+  "first_subtitle_raw": {
+    "message": "První titulek"
+  },
+  "second_subtitle_raw": {
+    "message": "Druhý titulek"
+  },
+  "thanks": {
+    "message": "Vyvinuto s ❤️. Děkujeme za použití."
+  },
+  "feedback": {
+    "message": "Zpětná vazba"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Překročena kvóta použití. Pro pokračování použijte 'Aktivovat licenci'."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Pro stažení titulků použijte 'Aktivovat licenci'."
+  },
+  "download_button_tooltip": {
+    "message": "Stáhnout titulky."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Časová značka našich titulků může být nesprávná, pokud vidíte reklamy na Netflixu. Po zhlédnutí reklamy jednoduše stránku znovu načtěte a problém bude opraven."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Lithuanian"
+  },
+  "ext_name": {
+    "message": "Netflix Dvigubi Subtitrai"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dvigubi Subtitrai - Subtitrų Vertėjas"
+  },
+  "ext_description": {
+    "message": "Dvigubi subtitrai Netflix platformai: dvikalbiai subtitrai, pritaikomas stilius ir pozicija, lengvas subtitrų atsisiuntimas. Nustatykite per mažiau nei 30 sekundžių!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Jei matote skelbimus „Netflix“, subtitrų laiko žyma gali būti neteisinga. Tiesiog iš naujo įkelkite svetainę peržiūrėję skelbimus, kad tokiu atveju tai ištaisytumėte."
+  }
+}

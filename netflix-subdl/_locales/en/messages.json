@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "English"
+  },
+  "ext_name": {
+    "message": "Netflix Dual Subtitles"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dual Subtitles - Subtitle Translator"
+  },
+  "ext_description": {
+    "message": "Dual Subtitles for Netflix: Bilingual captions, customizable style & position, easy subtitle downloads. Set up in under 30 seconds!"
+  },
+  "switch": {
+    "message": "Switch:"
+  },
+  "translation_source": {
+    "message": "Translation Source:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Translation Source' is loaded from the official subtitles of the video page you visit. And it's the translation source of the first and second subtitles. Please make sure you are on a video page that contains AT LEAST one official subtitle."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Please make sure you are on a video page that contains AT LEAST one official subtitle. You can try reload the video page or reopen this popup window. Any problem, contact support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "First Subtitle:"
+  },
+  "second_subtitle": {
+    "message": "Second Subtitle:"
+  },
+  "first_subtitle_raw": {
+    "message": "First Subtitle"
+  },
+  "second_subtitle_raw": {
+    "message": "Second Subtitle"
+  },
+  "thanks": {
+    "message": "Build with ❤️. Thanks for using."
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Usage quota exceeded. Please 'Activate License' to continue using."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Please 'Activate License' to download subtitles"
+  },
+  "download_button_tooltip": {
+    "message": "Download subtitles."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "The timestamp of our subtitles may be incorrect if you are seeing ads on Netflix. Simply reload the website after watching the ads to fix it in such a case."
+  }
+}

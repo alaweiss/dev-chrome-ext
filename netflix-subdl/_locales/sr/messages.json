@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Serbian"
+  },
+  "ext_name": {
+    "message": "Netflix Dvostruki Titlovi"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dvostruki Titlovi - Prevodilac Titlova"
+  },
+  "ext_description": {
+    "message": "Dvostruki titlovi za Netflix: Dvojezični titlovi, prilagodljiv stil i pozicija, lako preuzimanje titlova. Postavljanje za manje od 30 sekundi!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Временска ознака наших титлова може бити нетачна ако видите огласе на Нетфлик-у. Једноставно поново учитајте веб локацију након што погледате огласе да бисте то поправили у таквом случају."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Turkish"
+  },
+  "ext_name": {
+    "message": "Netflix Çift Altyazı"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Çift Altyazı - Altyazı Çevirici"
+  },
+  "ext_description": {
+    "message": "Netflix için Çift Altyazı: İki dilli altyazılar, özelleştirilebilir stil ve konum, kolay altyazı indirme. 30 saniyeden kısa sürede kurulum!"
+  },
+  "switch": {
+    "message": "Değiştir:"
+  },
+  "translation_source": {
+    "message": "Çeviri Kaynağı:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Çeviri Kaynağı', ziyaret ettiğiniz video sayfasının resmi altyazılarından yüklenir. Ve bu, birinci ve ikinci altyazıların çeviri kaynağıdır. Lütfen en az bir resmi altyazı içeren bir video sayfasında olduğunuzdan emin olun."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Lütfen en az bir resmi altyazı içeren bir video sayfasında olduğunuzdan emin olun. Video sayfasını yeniden yüklemeyi veya bu açılır pencereyi tekrar açmayı deneyebilirsiniz. Herhangi bir sorun için support@nflxdualsubtitles.com ile iletişime geçin."
+  },
+  "first_subtitle": {
+    "message": "Birinci Altyazı:"
+  },
+  "second_subtitle": {
+    "message": "İkinci Altyazı:"
+  },
+  "first_subtitle_raw": {
+    "message": "Birinci Altyazı"
+  },
+  "second_subtitle_raw": {
+    "message": "İkinci Altyazı"
+  },
+  "thanks": {
+    "message": "❤️ ile yapıldı. Kullanıcı olduğunuz için teşekkür ederiz."
+  },
+  "feedback": {
+    "message": "Geri Bildirim"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Kullanım kotası aşıldı. Devam etmek için 'Lisansı Etkinleştir' butonuna tıklayın."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "'Lisansı Etkinleştir' butonuna tıklayarak altyazıları indirin"
+  },
+  "download_button_tooltip": {
+    "message": "Altyazıları indir."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Netflix'teki reklamlardan sonra altyazı zamanlaması yanlış olabilir. Bu durumda, reklamlardan sonra web sitesini yeniden yükleyerek düzeltebilirsiniz."
+  }
+}

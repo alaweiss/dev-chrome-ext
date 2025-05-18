@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Hungarian"
+  },
+  "ext_name": {
+    "message": "Netflix Kétnyelvű Feliratok"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Kétnyelvű Feliratok - Feliratfordító"
+  },
+  "ext_description": {
+    "message": "Kétnyelvű feliratok a Netflixhez: kétnyelvű feliratok, testreszabható stílus és pozíció, egyszerű feliratletöltés. Állítsa be kevesebb mint 30 másodperc alatt!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Előfordulhat, hogy a felirataink időbélyege helytelen, ha hirdetéseket lát a Netflixen. Egyszerűen töltse újra a webhelyet a hirdetések megtekintése után, hogy ilyen esetben javítsa a problémát."
+  }
+}

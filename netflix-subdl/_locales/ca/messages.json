@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Catalan"
+  },
+  "ext_name": {
+    "message": "Subtítols duals de Netflix"
+  },
+  "ext_fulltitle": {
+    "message": "Subtítols duals de Netflix - Traductor de subtítols"
+  },
+  "ext_description": {
+    "message": "Subtítols duals per a Netflix: Subtítols bilingües, estil i posició personalitzables, descàrrega fàcil de subtítols. Configura-ho en menys de 30 segons!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "La marca de temps dels nostres subtítols pot ser incorrecta si veieu anuncis a Netflix. Simplement torneu a carregar el lloc web després de veure els anuncis per solucionar-ho en aquest cas."
+  }
+}

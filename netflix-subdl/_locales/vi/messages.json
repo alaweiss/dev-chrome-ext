@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Vietnamese"
+  },
+  "ext_name": {
+    "message": "Phụ Đề Đôi Netflix"
+  },
+  "ext_fulltitle": {
+    "message": "Phụ Đề Đôi Netflix - Công Cụ Dịch Phụ Đề"
+  },
+  "ext_description": {
+    "message": "Phụ đề đôi cho Netflix: Phụ đề song ngữ, tùy chỉnh kiểu và vị trí, tải phụ đề dễ dàng. Cài đặt trong vòng dưới 30 giây!"
+  },
+  "switch": {
+    "message": "Chuyển đổi:"
+  },
+  "translation_source": {
+    "message": "Nguồn dịch:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Nguồn dịch' được tải từ phụ đề chính thức của trang video bạn đang xem. Đây là nguồn dịch cho phụ đề đầu tiên và phụ đề thứ hai. Hãy đảm bảo rằng bạn đang ở trang video có ít nhất một phụ đề chính thức."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Hãy đảm bảo rằng bạn đang ở trang video có ít nhất một phụ đề chính thức. Bạn có thể thử tải lại trang video hoặc mở lại cửa sổ popup này. Nếu có vấn đề, vui lòng liên hệ support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Phụ đề đầu tiên:"
+  },
+  "second_subtitle": {
+    "message": "Phụ đề thứ hai:"
+  },
+  "first_subtitle_raw": {
+    "message": "Phụ đề đầu tiên"
+  },
+  "second_subtitle_raw": {
+    "message": "Phụ đề thứ hai"
+  },
+  "thanks": {
+    "message": "Xây dựng với ❤️. Cảm ơn bạn đã sử dụng."
+  },
+  "feedback": {
+    "message": "Phản hồi"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Vượt quá hạn mức sử dụng. Vui lòng 'Kích hoạt Giấy phép' để tiếp tục sử dụng."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Vui lòng 'Kích hoạt Giấy phép' để tải xuống phụ đề"
+  },
+  "download_button_tooltip": {
+    "message": "Tải xuống phụ đề."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Dấu thời gian của phụ đề chúng tôi có thể bị sai nếu bạn thấy quảng cáo trên Netflix. Chỉ cần tải lại trang web sau khi xem quảng cáo để sửa lỗi trong trường hợp này."
+  }
+}

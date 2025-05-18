@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Filipino"
+  },
+  "ext_name": {
+    "message": "Netflix Dual Subtitles"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dual Subtitles - Tagasalin ng Subtitle"
+  },
+  "ext_description": {
+    "message": "Dalawang Subtitle para sa Netflix: Bilingguwal na caption, naiaangkop na istilo at posisyon, madaling pag-download ng subtitle. Mai-set up sa loob ng wala pang 30 segundo!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Maaaring hindi tama ang timestamp ng aming mga subtitle kung nakakakita ka ng mga ad sa Netflix. I-reload lang ang website pagkatapos panoorin ang mga ad upang ayusin ito sa ganoong kaso."
+  }
+}

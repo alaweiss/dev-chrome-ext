@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Swahili"
+  },
+  "ext_name": {
+    "message": "Netflix Manukuu Mawili"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Manukuu Mawili - Mkalimani wa Manukuu"
+  },
+  "ext_description": {
+    "message": "Manukuu mawili kwa Netflix: Manukuu ya lugha mbili, mtindo na nafasi inayoweza kubadilishwa, upakuaji rahisi wa manukuu. Weka chini ya sekunde 30!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Muhuri wa wakati wa manukuu yetu inaweza kuwa si sahihi ikiwa unaona matangazo kwenye Netflix. Pakia upya tovuti baada ya kutazama matangazo ili kuirekebisha katika hali kama hiyo."
+  }
+}

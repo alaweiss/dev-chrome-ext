@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Malay"
+  },
+  "ext_name": {
+    "message": "Netflix Sarikata Dual"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Sarikata Dual - Penterjemah Sarikata"
+  },
+  "ext_description": {
+    "message": "Sarikata Dual untuk Netflix: Sarikata dwibahasa, gaya & kedudukan yang boleh disesuaikan, muat turun sarikata yang mudah. Sediakan dalam masa kurang dari 30 saat!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Cap masa sari kata kami mungkin tidak betul jika anda melihat iklan di Netflix. Cuma muat semula tapak web selepas menonton iklan untuk membetulkannya dalam kes sedemikian."
+  }
+}

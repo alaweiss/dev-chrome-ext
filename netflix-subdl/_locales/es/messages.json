@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Spanish"
+  },
+  "ext_name": {
+    "message": "Subtítulos Dual de Netflix"
+  },
+  "ext_fulltitle": {
+    "message": "Subtítulos Dual de Netflix - Traductor de Subtítulos"
+  },
+  "ext_description": {
+    "message": "Subtítulos Dual para Netflix: Subtítulos bilingües, estilo y posición personalizables, descargas fáciles de subtítulos. ¡Configúralo en menos de 30 segundos!"
+  },
+  "switch": {
+    "message": "Cambiar:"
+  },
+  "translation_source": {
+    "message": "Fuente de Traducción:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Fuente de Traducción' se carga desde los subtítulos oficiales de la página del video que visitas. Y es la fuente de traducción de los primeros y segundos subtítulos. Asegúrate de estar en una página de video que contenga AL MENOS un subtítulo oficial."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Por favor, asegúrate de estar en una página de video que contenga AL MENOS un subtítulo oficial. Puedes intentar recargar la página del video o reabrir esta ventana emergente. Cualquier problema, contacta a support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Primer Subtítulo:"
+  },
+  "second_subtitle": {
+    "message": "Segundo Subtítulo:"
+  },
+  "first_subtitle_raw": {
+    "message": "Primer Subtítulo"
+  },
+  "second_subtitle_raw": {
+    "message": "Segundo Subtítulo"
+  },
+  "thanks": {
+    "message": "Hecho con ❤️. Gracias por usarlo."
+  },
+  "feedback": {
+    "message": "Comentarios"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Cuota de uso superada. Por favor, 'Activa la Licencia' para continuar usando."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Por favor, 'Activa la Licencia' para descargar subtítulos"
+  },
+  "download_button_tooltip": {
+    "message": "Descargar subtítulos."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "La marca de tiempo de nuestros subtítulos puede ser incorrecta si estás viendo anuncios en Netflix. Simplemente recarga la página web después de ver los anuncios para corregirlo en tal caso."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Italian"
+  },
+  "ext_name": {
+    "message": "Netflix Sottotitoli Doppi"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Sottotitoli Doppi - Traduttore di Sottotitoli"
+  },
+  "ext_description": {
+    "message": "Sottotitoli doppi per Netflix: didascalie bilingui, stile e posizione personalizzabili, download di sottotitoli facili. Configura in meno di 30 secondi!"
+  },
+  "switch": {
+    "message": "Cambia:"
+  },
+  "translation_source": {
+    "message": "Fonte Traduzione:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Fonte Traduzione' viene caricata dai sottotitoli ufficiali della pagina video che visiti. Ed è la fonte di traduzione dei primi e secondi sottotitoli. Assicurati di essere su una pagina video che contenga ALMENO un sottotitolo ufficiale."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Assicurati di essere su una pagina video che contenga ALMENO un sottotitolo ufficiale. Puoi provare a ricaricare la pagina del video o riaprire questa finestra popup. In caso di problemi, contatta support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Primo Sottotitolo:"
+  },
+  "second_subtitle": {
+    "message": "Secondo Sottotitolo:"
+  },
+  "first_subtitle_raw": {
+    "message": "Primo Sottotitolo"
+  },
+  "second_subtitle_raw": {
+    "message": "Secondo Sottotitolo"
+  },
+  "thanks": {
+    "message": "Costruito con ❤️. Grazie per aver usato."
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Quota di utilizzo superata. Si prega di 'Attivare la Licenza' per continuare ad utilizzare."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Si prega di 'Attivare la Licenza' per scaricare i sottotitoli"
+  },
+  "download_button_tooltip": {
+    "message": "Scarica sottotitoli."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Il timestamp dei nostri sottotitoli potrebbe essere errato se stai guardando pubblicità su Netflix. Basta ricaricare il sito dopo aver visto le pubblicità per correggerlo in questo caso."
+  }
+}

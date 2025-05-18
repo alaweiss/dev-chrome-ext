@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Latvian"
+  },
+  "ext_name": {
+    "message": "Netflix Dubultie Subtitri"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dubultie Subtitri - Subtitru Tulkotājs"
+  },
+  "ext_description": {
+    "message": "Dubultie subtitri Netflix platformai: divvalodu subtitri, pielāgojams stils un pozīcija, viegla subtitru lejupielāde. Iestatiet mazāk nekā 30 sekundēs!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Ja redzat reklāmas pakalpojumā Netflix, mūsu subtitru laikspiedols var būt nepareizs. Vienkārši atkārtoti ielādējiet vietni pēc reklāmu skatīšanās, lai šādā gadījumā to labotu."
+  }
+}

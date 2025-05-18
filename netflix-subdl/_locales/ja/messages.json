@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Japanese"
+  },
+  "ext_name": {
+    "message": "Netflixデュアル字幕"
+  },
+  "ext_fulltitle": {
+    "message": "Netflixデュアル字幕 - 字幕翻訳ツール"
+  },
+  "ext_description": {
+    "message": "Netflix用デュアル字幕：バイリンガル字幕、カスタマイズ可能なスタイル＆位置、簡単な字幕ダウンロード。30秒以内に設定完了！"
+  },
+  "switch": {
+    "message": "切り替え："
+  },
+  "translation_source": {
+    "message": "翻訳元："
+  },
+  "translation_source_tooltip": {
+    "message": "'翻訳元'は、訪問した動画ページの公式字幕から読み込まれます。これが最初と二番目の字幕の翻訳元です。少なくとも1つの公式字幕が含まれている動画ページにいることを確認してください。"
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "少なくとも1つの公式字幕が含まれている動画ページにいることを確認してください。動画ページを再読み込みするか、このポップアップウィンドウを再度開いてみてください。問題が発生した場合は、support@nflxdualsubtitles.comまでお問い合わせください。"
+  },
+  "first_subtitle": {
+    "message": "最初の字幕："
+  },
+  "second_subtitle": {
+    "message": "2番目の字幕："
+  },
+  "first_subtitle_raw": {
+    "message": "最初の字幕"
+  },
+  "second_subtitle_raw": {
+    "message": "2番目の字幕"
+  },
+  "thanks": {
+    "message": "❤️で作成。ご利用ありがとうございます。"
+  },
+  "feedback": {
+    "message": "フィードバック"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "使用量の制限を超えました。使用を続けるには「ライセンスを有効化」してください。"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "字幕をダウンロードするには「ライセンスを有効化」してください。"
+  },
+  "download_button_tooltip": {
+    "message": "字幕をダウンロード。"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Netflixで広告を見ている場合、字幕のタイムスタンプが正しくないことがあります。その場合は広告後にウェブサイトを再読み込みして修正してください。"
+  }
+}

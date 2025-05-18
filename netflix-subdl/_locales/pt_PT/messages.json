@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Portuguese(Portugal)"
+  },
+  "ext_name": {
+    "message": "Legendas Duais da Netflix"
+  },
+  "ext_fulltitle": {
+    "message": "Legendas Duais da Netflix - Tradutor de Legendas"
+  },
+  "ext_description": {
+    "message": "Legendas Duais para a Netflix: Legendas bilíngues, estilo e posição personalizáveis, downloads de legendas fáceis. Configure em menos de 30 segundos!"
+  },
+  "switch": {
+    "message": "Mudar:"
+  },
+  "translation_source": {
+    "message": "Fonte da Tradução:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Fonte da Tradução' é carregada a partir das legendas oficiais da página do vídeo que visita. E é a fonte da tradução das primeiras e segundas legendas. Certifique-se de estar numa página de vídeo que contenha PELO MENOS uma legenda oficial."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Certifique-se de estar numa página de vídeo que contenha PELO MENOS uma legenda oficial. Pode tentar recarregar a página do vídeo ou reabrir esta janela pop-up. Qualquer problema, contacte support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Primeira Legenda:"
+  },
+  "second_subtitle": {
+    "message": "Segunda Legenda:"
+  },
+  "first_subtitle_raw": {
+    "message": "Primeira Legenda"
+  },
+  "second_subtitle_raw": {
+    "message": "Segunda Legenda"
+  },
+  "thanks": {
+    "message": "Feito com ❤️. Obrigado por usar."
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Cota de utilização excedida. Por favor, 'Ative a Licença' para continuar a utilizar."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Por favor, 'Ative a Licença' para descarregar as legendas."
+  },
+  "download_button_tooltip": {
+    "message": "Descarregar legendas."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "O timestamp das nossas legendas pode estar incorreto se estiver a ver anúncios na Netflix. Simplesmente recarregue o site após ver os anúncios para corrigir isso neste caso."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "German"
+  },
+  "ext_name": {
+    "message": "Netflix Doppel-Untertitel"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Doppel-Untertitel - Untertitel-Übersetzer"
+  },
+  "ext_description": {
+    "message": "Doppelte Untertitel für Netflix: Zweisprachige Untertitel, anpassbarer Stil & Position, einfache Untertitel-Downloads. In weniger als 30 Sekunden einrichten!"
+  },
+  "switch": {
+    "message": "Wechseln:"
+  },
+  "translation_source": {
+    "message": "Übersetzungsquelle:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Übersetzungsquelle' wird aus den offiziellen Untertiteln der von Ihnen besuchten Video-Seite geladen. Es ist die Übersetzungsquelle der ersten und zweiten Untertitel. Bitte stellen Sie sicher, dass Sie sich auf einer Video-Seite befinden, die MINDESTENS einen offiziellen Untertitel enthält."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Bitte stellen Sie sicher, dass Sie sich auf einer Video-Seite befinden, die MINDESTENS einen offiziellen Untertitel enthält. Sie können versuchen, die Video-Seite neu zu laden oder dieses Popup-Fenster erneut zu öffnen. Bei Problemen wenden Sie sich an support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Erster Untertitel:"
+  },
+  "second_subtitle": {
+    "message": "Zweiter Untertitel:"
+  },
+  "first_subtitle_raw": {
+    "message": "Erster Untertitel"
+  },
+  "second_subtitle_raw": {
+    "message": "Zweiter Untertitel"
+  },
+  "thanks": {
+    "message": "Erstellt mit ❤️. Vielen Dank für die Nutzung."
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Nutzungsquote überschritten. Bitte 'Lizenz aktivieren', um weiter zu nutzen."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Bitte 'Lizenz aktivieren', um Untertitel herunterzuladen"
+  },
+  "download_button_tooltip": {
+    "message": "Untertitel herunterladen."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Die Zeitstempel unserer Untertitel können falsch sein, wenn Sie Werbung auf Netflix sehen. Laden Sie die Website einfach nach dem Ansehen der Werbung neu, um das Problem zu beheben."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Dutch"
+  },
+  "ext_name": {
+    "message": "Netflix Dubbele Ondertitels"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dubbele Ondertitels - Ondertitelvertaler"
+  },
+  "ext_description": {
+    "message": "Dubbele ondertitels voor Netflix: Tweetalige ondertitels, aanpasbare stijl en positie, eenvoudige ondertiteldownloads. Installeer in minder dan 30 seconden!"
+  },
+  "switch": {
+    "message": "Wisselen:"
+  },
+  "translation_source": {
+    "message": "Vertaalbron:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Vertaalbron' wordt geladen van de officiële ondertitels van de videopagina die je bezoekt. En het is de vertaalbron voor de eerste en tweede ondertitels. Zorg ervoor dat je op een videopagina bent die ALLEEN maar één officiële ondertitel bevat."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Zorg ervoor dat je op een videopagina bent die ALLEEN maar één officiële ondertitel bevat. Je kunt proberen de videopagina opnieuw te laden of dit pop-upvenster opnieuw te openen. Als er een probleem is, neem contact op met support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Eerste Ondertitel:"
+  },
+  "second_subtitle": {
+    "message": "Tweede Ondertitel:"
+  },
+  "first_subtitle_raw": {
+    "message": "Eerste Ondertitel"
+  },
+  "second_subtitle_raw": {
+    "message": "Tweede Ondertitel"
+  },
+  "thanks": {
+    "message": "Gebouwd met ❤️. Bedankt voor het gebruiken."
+  },
+  "feedback": {
+    "message": "Feedback"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Gebruikskwis is overschreden. Activeer 'Licentie' om door te gaan met gebruiken."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Activeer 'Licentie' om ondertitels te downloaden"
+  },
+  "download_button_tooltip": {
+    "message": "Download ondertitels."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "De tijdstempel van onze ondertitels kan onjuist zijn als je advertenties op Netflix bekijkt. Herlaad de website gewoon na het bekijken van de advertenties om het in dit geval te corrigeren."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Finnish"
+  },
+  "ext_name": {
+    "message": "Netflix Kaksikieliset Tekstitykset"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Kaksikieliset Tekstitykset - Tekstitysten Kääntäjä"
+  },
+  "ext_description": {
+    "message": "Netflixin kaksikieliset tekstitykset: Kaksikieliset kuvatekstit, muokattavissa oleva tyyli ja sijainti, helppo tekstitysten lataus. Asennus alle 30 sekunnissa!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Tekstitystemme aikaleima voi olla virheellinen, jos näet mainoksia Netflixissä. Korjaa se tällaisessa tapauksessa lataamalla verkkosivusto uudelleen mainosten katselun jälkeen."
+  }
+}

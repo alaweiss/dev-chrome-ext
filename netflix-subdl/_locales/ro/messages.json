@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Romanian"
+  },
+  "ext_name": {
+    "message": "Netflix Subtitrări Duble"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Subtitrări Duble - Traducător de Subtitrări"
+  },
+  "ext_description": {
+    "message": "Subtitrări duble pentru Netflix: subtitrări bilingve, stil și poziție personalizabile, descărcare ușoară a subtitrărilor. Configurați în mai puțin de 30 de secunde!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Marca temporală a subtitrarilor noastre poate fi incorectă dacă vedeți reclame pe Netflix. Pur și simplu reîncărcați site-ul după ce vizionați reclamele pentru a-l remedia într-un astfel de caz."
+  }
+}

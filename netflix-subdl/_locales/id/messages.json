@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Indonesian"
+  },
+  "ext_name": {
+    "message": "Netflix Subtitel Ganda"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Subtitel Ganda - Penerjemah Subtitel"
+  },
+  "ext_description": {
+    "message": "Subtitel Ganda untuk Netflix: Teks dua bahasa, gaya & posisi yang dapat disesuaikan, pengunduhan subtitel mudah. Atur dalam waktu kurang dari 30 detik!"
+  },
+  "switch": {
+    "message": "Beralih:"
+  },
+  "translation_source": {
+    "message": "Sumber Terjemahan:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Sumber Terjemahan' dimuat dari subtitle resmi halaman video yang Anda kunjungi. Dan itu adalah sumber terjemahan dari subtitle pertama dan kedua. Pastikan Anda berada di halaman video yang memiliki SETIDAKNYA satu subtitle resmi."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Pastikan Anda berada di halaman video yang memiliki SETIDAKNYA satu subtitle resmi. Anda dapat mencoba memuat ulang halaman video atau membuka kembali jendela popup ini. Jika ada masalah, hubungi support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Subtitle Pertama:"
+  },
+  "second_subtitle": {
+    "message": "Subtitle Kedua:"
+  },
+  "first_subtitle_raw": {
+    "message": "Subtitle Pertama"
+  },
+  "second_subtitle_raw": {
+    "message": "Subtitle Kedua"
+  },
+  "thanks": {
+    "message": "Dibuat dengan ❤️. Terima kasih telah menggunakan."
+  },
+  "feedback": {
+    "message": "Umpan Balik"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Kuota penggunaan terlampaui. Harap 'Aktifkan Lisensi' untuk melanjutkan penggunaan."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Harap 'Aktifkan Lisensi' untuk mengunduh subtitle"
+  },
+  "download_button_tooltip": {
+    "message": "Unduh subtitle."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Timestamp subtitle kami mungkin tidak akurat jika Anda melihat iklan di Netflix. Cukup muat ulang situs setelah menonton iklan untuk memperbaikinya jika terjadi hal tersebut."
+  }
+}

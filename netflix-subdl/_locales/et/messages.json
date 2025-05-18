@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Estonian"
+  },
+  "ext_name": {
+    "message": "Netflix Dual Subtitles"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dual Subtitles - Subtiitrimisa tõlkija"
+  },
+  "ext_description": {
+    "message": "Kahekeelsed subtiitrid Netflixile: Bilinguaalsed subtiitrid, kohandatav stiil ja positsioon, lihtne subtiitrite allalaadimine. Seadistamine vähem kui 30 sekundiga!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Kui näete Netflixis reklaame, võib meie subtiitrite ajatempel olla vale. Sellise juhtumi parandamiseks laadige veebisait pärast reklaamide vaatamist lihtsalt uuesti."
+  }
+}

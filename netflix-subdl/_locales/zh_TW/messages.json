@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Chinese(Traditional)"
+  },
+  "ext_name": {
+    "message": "Netflix 雙語字幕"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix 雙語字幕 - 字幕翻譯器"
+  },
+  "ext_description": {
+    "message": "Netflix 雙 字幕：雙語字幕、可自訂樣式和位置、輕鬆下載字幕。30秒內完成設置！"
+  },
+  "switch": {
+    "message": "切換："
+  },
+  "translation_source": {
+    "message": "翻譯來源："
+  },
+  "translation_source_tooltip": {
+    "message": "'翻譯來源'是從您訪問的影片頁面的官方字幕加載的。它是第一和第二字幕的翻譯來源。請確保您正在訪問包含至少一個官方字幕的影片頁面。"
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "請確保您正在訪問包含至少一個官方字幕的影片頁面。您可以嘗試重新加載影片頁面或重新打開此彈出視窗。如果有任何問題，請聯繫support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "第一字幕："
+  },
+  "second_subtitle": {
+    "message": "第二字幕："
+  },
+  "first_subtitle_raw": {
+    "message": "第一字幕"
+  },
+  "second_subtitle_raw": {
+    "message": "第二字幕"
+  },
+  "thanks": {
+    "message": "由 ❤️ 創建。感謝使用。"
+  },
+  "feedback": {
+    "message": "回饋"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "超出使用配額。請“激活許可證”以繼續使用。"
+  },
+  "subt_fake_download_need_pro": {
+    "message": "請“激活許可證”以下載字幕"
+  },
+  "download_button_tooltip": {
+    "message": "下載字幕。"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "如果您在Netflix上看到廣告，我們的字幕時間戳可能不準確。在觀看完廣告後，只需重新加載網站即可修復該問題。"
+  }
+}

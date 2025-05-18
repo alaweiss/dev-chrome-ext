@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Polish"
+  },
+  "ext_name": {
+    "message": "Netflix Podwójne Napisy"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Podwójne Napisy - Tłumacz napisów"
+  },
+  "ext_description": {
+    "message": "Podwójne napisy dla Netflix: Napisy dwujęzyczne, konfigurowalny styl i pozycja, łatwe pobieranie napisów. Konfiguracja w mniej niż 30 sekund!"
+  },
+  "switch": {
+    "message": "Przełącz:"
+  },
+  "translation_source": {
+    "message": "Źródło tłumaczenia:"
+  },
+  "translation_source_tooltip": {
+    "message": "'Źródło tłumaczenia' ładowane jest z oficjalnych napisów na stronie wideo, którą odwiedzasz. Jest to źródło tłumaczenia dla pierwszych i drugich napisów. Upewnij się, że jesteś na stronie wideo, która zawiera przynajmniej jedne oficjalne napisy."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Upewnij się, że jesteś na stronie wideo, która zawiera przynajmniej jedne oficjalne napisy. Możesz spróbować ponownie załadować stronę wideo lub ponownie otworzyć to okno. W razie problemów skontaktuj się z support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Pierwsze napisy:"
+  },
+  "second_subtitle": {
+    "message": "Drugie napisy:"
+  },
+  "first_subtitle_raw": {
+    "message": "Pierwsze napisy"
+  },
+  "second_subtitle_raw": {
+    "message": "Drugie napisy"
+  },
+  "thanks": {
+    "message": "Zbudowane z ❤️. Dziękujemy za korzystanie."
+  },
+  "feedback": {
+    "message": "Opinie"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Przekroczono limit użytkowania. Aby kontynuować, kliknij 'Aktywuj licencję'."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Kliknij 'Aktywuj licencję', aby pobrać napisy"
+  },
+  "download_button_tooltip": {
+    "message": "Pobierz napisy."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Czas wyświetlania napisów może być niepoprawny, jeśli oglądasz reklamy na Netflix. Po obejrzeniu reklam po prostu odśwież stronę, aby naprawić ten problem."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "Korean"
+  },
+  "ext_name": {
+    "message": "Netflix 이중 자막"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix 이중 자막 - 자막 번역기"
+  },
+  "ext_description": {
+    "message": "Netflix를 위한 이중 자막: 이중 언어 자막, 스타일 및 위치 커스터마이징, 쉬운 자막 다운로드. 30초 이내로 설정 완료!"
+  },
+  "switch": {
+    "message": "전환:"
+  },
+  "translation_source": {
+    "message": "번역 출처:"
+  },
+  "translation_source_tooltip": {
+    "message": "'번역 출처'는 방문하는 비디오 페이지의 공식 자막에서 불러옵니다. 이것은 첫 번째 및 두 번째 자막의 번역 출처입니다. 최소한 하나의 공식 자막이 포함된 비디오 페이지에 있는지 확인해주세요."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "최소한 하나의 공식 자막이 포함된 비디오 페이지에 있는지 확인해주세요. 비디오 페이지를 새로 고침하거나 이 팝업 창을 다시 열어보세요. 문제가 계속되면 support@nflxdualsubtitles.com에 연락하세요."
+  },
+  "first_subtitle": {
+    "message": "첫 번째 자막:"
+  },
+  "second_subtitle": {
+    "message": "두 번째 자막:"
+  },
+  "first_subtitle_raw": {
+    "message": "첫 번째 자막"
+  },
+  "second_subtitle_raw": {
+    "message": "두 번째 자막"
+  },
+  "thanks": {
+    "message": "❤️로 제작되었습니다. 사용해 주셔서 감사합니다."
+  },
+  "feedback": {
+    "message": "피드백"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "사용 한도를 초과했습니다. 계속 사용하려면 '라이선스 활성화'를 해주세요."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "자막을 다운로드하려면 '라이선스 활성화'가 필요합니다."
+  },
+  "download_button_tooltip": {
+    "message": "자막 다운로드."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Netflix에서 광고를 보고 있는 경우 자막의 타임스탬프가 올바르지 않을 수 있습니다. 이 경우 광고를 본 후 웹사이트를 새로 고침하여 수정하세요."
+  }
+}

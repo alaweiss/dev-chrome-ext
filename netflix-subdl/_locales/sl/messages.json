@@ -1,0 +1,17 @@
+{
+  "language": {
+    "message": "Slovenian"
+  },
+  "ext_name": {
+    "message": "Netflix Dvojni Podnapisi"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Dvojni Podnapisi - Prevajalnik Podnapisov"
+  },
+  "ext_description": {
+    "message": "Dvojni podnapisi za Netflix: Dvojezični podnapisi, prilagodljiv slog in položaj, enostavno prenašanje podnapisov. Nastavite v manj kot 30 sekundah!"
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "Časovni žig naših podnapisov je morda napačen, če na Netflixu vidite oglase. Preprosto znova naložite spletno mesto po ogledu oglasov, da ga v takem primeru popravite."
+  }
+}

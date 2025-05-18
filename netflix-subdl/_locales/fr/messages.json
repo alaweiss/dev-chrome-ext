@@ -1,0 +1,56 @@
+{
+  "language": {
+    "message": "French"
+  },
+  "ext_name": {
+    "message": "Netflix Sous-titres Doubles"
+  },
+  "ext_fulltitle": {
+    "message": "Netflix Sous-titres Doubles - Traducteur de sous-titres"
+  },
+  "ext_description": {
+    "message": "Sous-titres doubles pour Netflix : sous-titres bilingues, style et position personnalisables, téléchargements faciles de sous-titres. Configuration en moins de 30 secondes !"
+  },
+  "switch": {
+    "message": "Changer :"
+  },
+  "translation_source": {
+    "message": "Source de traduction :"
+  },
+  "translation_source_tooltip": {
+    "message": "'Source de traduction' est chargée à partir des sous-titres officiels de la page vidéo que vous visitez. Et c'est la source de traduction du premier et du deuxième sous-titre. Veuillez vous assurer que vous êtes sur une page vidéo contenant AU MOINS un sous-titre officiel."
+  },
+  "translation_source_loadfail_tooltip": {
+    "message": "Veuillez vous assurer que vous êtes sur une page vidéo contenant AU MOINS un sous-titre officiel. Vous pouvez essayer de recharger la page vidéo ou de rouvrir cette fenêtre popup. En cas de problème, contactez support@nflxdualsubtitles.com"
+  },
+  "first_subtitle": {
+    "message": "Premier sous-titre :"
+  },
+  "second_subtitle": {
+    "message": "Deuxième sous-titre :"
+  },
+  "first_subtitle_raw": {
+    "message": "Premier sous-titre"
+  },
+  "second_subtitle_raw": {
+    "message": "Deuxième sous-titre"
+  },
+  "thanks": {
+    "message": "Construit avec ❤️. Merci de l'utiliser."
+  },
+  "feedback": {
+    "message": "Retour"
+  },
+  "subt_fake_exceed_quota": {
+    "message": "Quota d'utilisation dépassé. Veuillez 'Activer la licence' pour continuer à utiliser."
+  },
+  "subt_fake_download_need_pro": {
+    "message": "Veuillez 'Activer la licence' pour télécharger les sous-titres"
+  },
+  "download_button_tooltip": {
+    "message": "Télécharger les sous-titres."
+  },
+  "reload_to_fix_subt_time_by_ads": {
+    "message": "L'horodatage de nos sous-titres peut être incorrect si vous voyez des publicités sur Netflix. Il suffit de recharger le site après avoir regardé les publicités pour le corriger dans ce cas."
+  }
+}
